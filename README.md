@@ -1,3 +1,6 @@
+# Cursor Knowledge Base
+How to structure your Claude folder effectively - [Anatomy of Claude folder] {https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder}
+
 # AI setup for python based Agentic Workflow Development
 my go to guide to setting up a python project and include a barebone openai execution
 
